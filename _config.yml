@@ -1,0 +1,15 @@
+kramdown:
+  input: GFM
+  hard_wrap: true
+timezone: Europe/Berlin
+
+sass:
+  sass_dir: ./_sass
+gems:
+  - jemoji
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "rhok"

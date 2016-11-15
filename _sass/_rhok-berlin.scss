@@ -1,0 +1,54 @@
+@import "_normalize";
+@import "modular-scale";
+
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+$ms-base: 24px;
+$ms-ratio: 1.333;
+
+$rhok-blue: #2D89C8;
+$rhok-grey: #9C9C9C;
+$dark-rhok-blue: darken($rhok-blue, 10%);
+
+body {
+	font-family: 'Vollkorn', serif;
+
+	width: 90%;
+	max-width: 30 * $ms-base;
+	margin-left: auto;
+	margin-right: auto;
+
+	font-size: $ms-base;
+	line-height: $ms-ratio;
+}
+
+h1, h2, h3 {
+	color: $dark-rhok-blue;
+	margin: ms(1) 0 ms(0) 0;
+}
+
+p {
+	margin: 0 0 ms(0) 0;
+}
+
+a {
+	color: $dark-rhok-blue;
+}
+
+body {
+	& > .rhok-logo {
+		& img {
+			margin: 1em 0 ms(2) 0;
+			width: 100%;
+		}
+	}
+
+	& > footer {
+		width: 100%;
+		margin: ms(2) 0 ms(0) 0;
+		padding-top: ms(0);
+		border-top: 1px solid $rhok-grey;
+		color: $rhok-grey;
+		font-size: ms(-1);
+	}
+}
