@@ -1,6 +1,7 @@
 kramdown:
   input: GFM
   hard_wrap: true
+encoding: utf-8
 timezone: Europe/Berlin
 
 sass:
