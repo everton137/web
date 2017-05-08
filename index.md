@@ -12,7 +12,7 @@ Wir wollen diesen tollen Hackathon wieder nach Berlin bringen und zugleich versu
 
 # Wann geht es los?
 
-Vermutlich im Januar. Wir arbeiten daran erstmal wieder einen Hackathon auf die Beine zu stellen, Sponsoren zu gewinnen und Teilnehmer zu finden.
+Im Sommer 2017! Wir hoffen den Hackathon noch im Juli 2017 auf die Beine zu stellen - folge uns auf in den sozialen Medien, wir geben den genauen Termin frühstmöglich bekannt.
 
 # Bleibe in Verbindung!
 
@@ -20,9 +20,18 @@ Folge uns auf Twitter, um frühst möglich Neuigkeiten zu den Berliner Random Ha
 
 {% include follow.html %}
 
-# Ich will helfen!
+# Wie kannst du helfen?
 
-Sehr gerne, bitte schreibe uns eine [E-Mail][mail:florian], hilf bei der [Organisation][rhok.meta] oder bei der Entwicklung dieser [Webseite][rhok.web]. :gift:
+- nimm an einem Random Hacks of Kindness Hackathon in deiner Nähe teil,
+- hilf einen Random Hacks of Kindness in deiner Heimat zu organisieren,
+- unterstütze uns dabei die Random Hacks of Kindness auszurichten,
+- vernetze uns mit möglichen Stakeholdern, Unterstützern oder Medienvertretern,
+- erzähle deinen Freunden von den Random Hacks of Kindness
+- hilf uns Random Hacks of Kindness rund um den Globus auszurichten
+
+bitte schreibe uns eine [E-Mail][mail:florian] und hilf bei der Organisation oder bei der Entwicklung dieser [Webseite][rhok.web].
+
+Jeder Beitrag hilft. :gift_heart:
 
 [rhok-global]: http://www.rhok.cc/
 [gwob]: http://gwob.org/
