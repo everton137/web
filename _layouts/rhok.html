@@ -1,29 +1,36 @@
 ---
 ---
+{% assign pages = site.pages | sort:"position" %}
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<meta charset="utf-8"/>
 		<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon"/>
-		<link href="assets/rhok-styled.css" rel="stylesheet"/>
+		<link href="/assets/rhok-styled.css" rel="stylesheet"/>
 {% if page.title == nil %}
 		<title>RHoK Berlin</title>
 {% else %}
 		<title>RHoK Berlin &mdash; {{ page.title }}</title>
-{% endif%}
+{% endif %}
 	</head>
 	<body>
-		<a class="rhok-logo"
-			href="/"
-		>
-			<img src="assets/rhokbln-logo.svg"
-				alt=""
+		<a class="rhok-logo" href="/">
+			<img src="/assets/rhokbln-logo.svg"
+				alt="Random Hacks of Kindness Berlin Logo"
 			/>
 		</a>
+		<ul class="navigation">
+			<li><a href="/">Startseite</a></li>
+		{% for page in pages %}
+			{% if page.url contains "/pages" %}
+				<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+		</ul>
 		{{ content }}
 		<footer>
-			<a href="/imprint.html">Impressum</a> &mdash;
+			<a href="/pages/imprint.html">Impressum</a> &mdash;
 			{{ site.time | date_to_string }}
 		</footer>
 	</body>

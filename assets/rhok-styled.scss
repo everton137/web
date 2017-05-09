@@ -1,3 +1,27 @@
 ---
 ---
 @import "rhok-berlin";
+
+.navigation {
+	list-style-type: none;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	margin-bottom: 4ex;
+
+	& li {
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+		display: inline-block;
+
+		& a {
+			padding: 0.5ex 1em 0.5ex 1em;
+			color: white;
+			background-color: $rhok-grey;
+			text-decoration: none;
+
+			&:hover {
+				background-color: $rhok-blue;
+			}
+		}
+	}
+}

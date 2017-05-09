@@ -8,6 +8,10 @@ sass:
   sass_dir: ./_sass
 gems:
   - jemoji
+exclude:
+  - README.md
+include:
+  - pages
 defaults:
   -
     scope:

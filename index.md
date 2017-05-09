@@ -40,4 +40,4 @@ Jeder Beitrag hilft. :gift_heart:
 [rhok.meta]: https://github.com/RHoK-Berlin/meta
 [mail:florian]: mailto:florian.breisch@mindkeeper.solutions
 
-[imprint]: /imprint.html
+[imprint]: /pages/imprint.html
