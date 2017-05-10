@@ -22,14 +22,14 @@ Folge uns auf Twitter, um frühst möglich Neuigkeiten zu den Berliner Random Ha
 
 # Wie kannst du helfen?
 
-- nimm an einem Random Hacks of Kindness Hackathon in deiner Nähe teil,
-- hilf einen Random Hacks of Kindness in deiner Heimat zu organisieren,
-- unterstütze uns dabei die Random Hacks of Kindness auszurichten,
-- vernetze uns mit möglichen Stakeholdern, Unterstützern oder Medienvertretern,
-- erzähle deinen Freunden von den Random Hacks of Kindness
-- hilf uns Random Hacks of Kindness rund um den Globus auszurichten
+- Nimm an einem Random Hacks of Kindness Hackathon in deiner Nähe teil
+- Hilf einen Random Hacks of Kindness in deiner Heimat zu organisieren
+- Unterstütze uns dabei die Random Hacks of Kindness auszurichten
+- Vernetze uns mit möglichen Stakeholdern, Unterstützern oder Medienvertretern
+- Erzähle deinen Freunden von den Random Hacks of Kindness
+- Hilf uns Random Hacks of Kindness rund um den Globus auszurichten
 
-bitte schreibe uns eine [E-Mail][mail:florian] und hilf bei der Organisation oder bei der Entwicklung dieser [Webseite][rhok.web].
+Bitte schreibe uns eine [E-Mail][mail:florian] und hilf bei der Organisation oder bei der Entwicklung dieser [Webseite][rhok.web].
 
 Jeder Beitrag hilft. :gift_heart:
 
