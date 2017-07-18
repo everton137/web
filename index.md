@@ -29,7 +29,7 @@ Folge uns auf Twitter, um frühst möglich Neuigkeiten zu den Berliner Random Ha
 - Erzähle deinen Freunden von den Random Hacks of Kindness
 - Hilf uns Random Hacks of Kindness rund um den Globus auszurichten
 
-Bitte schreibe uns eine [E-Mail][mail:florian] und hilf bei der Organisation oder bei der Entwicklung dieser [Webseite][rhok.web].
+Bitte schreibe uns eine [E-Mail][mail:everton] und hilf bei der Organisation oder bei der Entwicklung dieser [Webseite][rhok.web].
 
 Jeder Beitrag hilft. :gift_heart:
 
