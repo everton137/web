@@ -39,5 +39,7 @@ Jeder Beitrag hilft. :gift_heart:
 [rhok.web]: https://github.com/RHoK-Berlin/web
 [rhok.meta]: https://github.com/RHoK-Berlin/meta
 [mail:florian]: mailto:florian.breisch@mindkeeper.solutions
+[mail:everton]: mailto:eza@protonmail.ch
+[mail:edgar]: mailto:e@vaz.io
 
 [imprint]: /imprint.html
