@@ -22,7 +22,7 @@ Folge uns auf Twitter, um frühst möglich Neuigkeiten zu den Berliner Random Ha
 
 # Ich will helfen!
 
-Sehr gerne, bitte schreibe uns eine [E-Mail][mail:florian], hilf bei der [Organisation][rhok.meta] oder bei der Entwicklung dieser [Webseite][rhok.web]. :gift:
+Sehr gerne, bitte schreibe uns eine [E-Mail][mail:everton], hilf bei der [Organisation][rhok.meta] oder bei der Entwicklung dieser [Webseite][rhok.web]. :gift:
 
 [rhok-global]: http://www.rhok.cc/
 [gwob]: http://gwob.org/
@@ -30,5 +30,7 @@ Sehr gerne, bitte schreibe uns eine [E-Mail][mail:florian], hilf bei der [Organi
 [rhok.web]: https://github.com/RHoK-Berlin/web
 [rhok.meta]: https://github.com/RHoK-Berlin/meta
 [mail:florian]: mailto:florian.breisch@mindkeeper.solutions
+[mail:everton]: mailto:eza@protonmail.ch
+[mail:edgar]: mailto:e@vaz.io
 
 [imprint]: /imprint.html
